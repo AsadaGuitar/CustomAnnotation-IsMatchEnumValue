@@ -11,6 +11,7 @@ import org.springframework.data.annotation.Id;
 
 import com.example.domain.enums.Gender;
 
+//@Data
 public class CustomerForm {
 
 	@Id
